@@ -1,7 +1,3 @@
-
-#newsticker programme. will display the latest UK headlines.
-#Using the RPLCD library
-#lcd.cursor_pos = (column, row) numbering from zero
 #program to run a news ticker on a 16x2 CharLCD with a Raspberry Pi Zero W
 #Will use the NewsAPI service for headlines and scroll through them
 #will use RPLCD Library
